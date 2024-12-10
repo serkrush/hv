@@ -1,0 +1,20 @@
+import { put } from "redux-saga/effects";
+import { BaseEntity } from "./BaseEntity";
+import * as actionTypes from "store/actionTypes";
+import action from "./decorators/action";
+
+export default class Flagger extends BaseEntity<Flagger> {
+  constructor(opts: any) {
+    super(opts);
+  }
+
+  @action()
+  public *setFlagger({ key, value }) {
+    yield put(actionTypes.setFlagger(key, value));
+  }
+
+  @action()
+  public *clearFlagger({ key }) {
+    yield put(actionTypes.setFlagger(key, undefined));
+  }
+}

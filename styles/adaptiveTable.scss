@@ -1,0 +1,206 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+table.table-main {
+
+    tbody{
+        tr {
+            td {
+                @apply p-3;
+            }
+        }
+    }
+}
+
+.table-icon {
+    @apply h-7 w-7 flex justify-center items-center bg-gray-100 bg-opacity-50;
+    @apply rounded-md transition-colors duration-300 ease-in-out cursor-pointer;
+  
+    &:enabled{
+        @apply cursor-pointer;
+        
+        &:hover{
+            @apply text-white bg-opacity-40;
+        }
+    }
+
+    &:disabled{
+        @apply cursor-not-allowed bg-gray-100 bg-opacity-50 text-gray-300;
+    }
+  
+    &:focus {
+        @apply outline-none border border-gray-200;
+    }
+}
+
+.table-icon-sm {
+    @apply h-4;
+}
+
+.sub-row-arrow-container {
+    @apply w-2 cursor-pointer;
+
+    .sub-row-arrow {
+        @apply text-base text-gray-500 transform;
+    }
+
+    &:hover {
+        .sub-row-arrow {
+            @apply scale-125;
+        }
+    }
+}
+
+.action-menu-item {
+    @apply w-full p-2 flex flex-row justify-start items-center;
+
+    &:hover {
+        @apply bg-blue-400;
+
+        p, div {
+            @apply text-yellow-500;
+        }
+    }
+
+    &:focus {
+        @apply outline-none bg-blue-400;
+
+        p, div {
+            @apply text-yellow-500;
+        }
+    }
+}
+
+.fieldSelection {
+    @apply border-yellow-600;
+}
+
+.filterItem {
+    @apply w-full flex flex-row items-center rounded-md border bg-white border-gray-100;
+
+    .filterInput{
+        @apply rounded-md h-full w-full
+    }
+    .filterInput:focus {
+        @apply outline-none
+    }
+
+    &.cutFilterItem {
+        @apply rounded-l-none pl-2;
+    }
+
+}
+.filterItem:focus-within {
+    @apply fieldSelection;
+}
+
+.DateSelectInput {
+    @apply w-full h-full text-center;
+}
+.DateSelectInput:focus {
+    @apply outline-none;
+}
+.Selectable {
+    *:focus {
+        @apply outline-none;
+    }
+
+    .DayPicker-wrapper {
+        .DayPicker-Months {
+            @apply flex flex-row justify-center items-start;
+
+            .DayPicker-Caption {
+                div {
+                    @apply capitalize text-sm text-gray-900 font-bold;
+                }
+            }
+
+            .DayPicker-Weekdays{
+                .DayPicker-WeekdaysRow {
+                    @apply flex flex-row items-center;
+                    .DayPicker-Weekday {
+                        @apply flex flex-row justify-center items-center w-8;
+                        
+                        abbr {
+                            @apply capitalize text-sm text-gray-900 font-medium;
+                        }
+                    }
+                }
+            }
+
+            .DayPicker-Body {
+                .DayPicker-Week {
+                    @apply flex flex-row justify-center items-center;
+
+                    .DayPicker-Day {
+                        @apply w-8 h-8 flex flex-row justify-center items-center text-sm text-gray-300 font-normal;
+                    
+                        &:not(.DayPicker-Day--disabled):not(.DayPicker-Day--selected):not(.DayPicker-Day--outside):hover {
+                            @apply text-gray-900 bg-gray-100 bg-opacity-25;
+                        }
+                    }
+                    
+                    .DayPicker-Day--today {
+                        @apply bg-gray-300 text-white font-semibold;
+                    }
+
+                    .DayPicker-Day--selected {
+                        &:not(.DayPicker-Day--outside) {
+                            @apply text-gray-900 font-medium bg-yellow-500;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@screen md {
+    .Selectable {
+        .DayPicker-wrapper {
+            .DayPicker-Months {
+                @apply p-2 flex-nowrap;
+            }
+        }
+    }
+}
+
+.filter-select {
+    @apply h-7 w-full filterItem;
+    
+    &.is-open {
+        @apply fieldSelection;
+    }
+
+    .Dropdown-control {
+        @apply h-full px-0 w-full flex flex-row justify-between items-center rounded-md border-none;
+    }
+
+    .Dropdown-placeholder {
+        @apply pl-5 w-full text-xs font-normal text-gray-200 whitespace-nowrap;
+
+        &.is-selected {
+            @apply text-gray-600;
+        }
+    }
+
+    .Dropdown-arrow-wrapper {
+        @apply mx-2 flex items-center text-xs font-normal text-gray-200;
+    }
+
+    .filter-dropdown {
+        @apply rounded-lg bg-white z-30 shadow-lg;
+
+        .Dropdown-option {
+            @apply h-7 flex flex-row items-center text-xs font-normal transition-all duration-500 ease-in-out whitespace-nowrap;
+
+            &.is-selected {
+                @apply bg-blue-500 text-yellow-700;
+            }
+
+            &:hover {
+                @apply bg-blue-500 text-yellow-700;
+            }
+        }
+    }
+}

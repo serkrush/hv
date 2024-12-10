@@ -1,0 +1,976 @@
+[
+  {
+    "id": "746d205c-7a24-4fd7-b24f-36bfd0260da4",
+    "categoriesPath": [
+      [
+        "Meals",
+        "Breakfast",
+        "Breakfast"
+      ],
+      [
+        "Meals",
+        "Snacks",
+        "Snacks"
+      ],
+      [
+        "Fruit",
+        "Misc. Fruits",
+        "Apple"
+      ]
+    ],
+    "recipe_name": "Activated Apple Pie Granola",
+    "description": "This Apple Pie Granola is the perfect mid-day snack as its packed full of goodness with a variety of different ingredients. Full of fiber and healthy fats this will keep you feeling fuller for longer and stop brain fog so you can concentrate on those tasks at hand!",
+    "recipe_process": "recipe",
+    "machine_type": "dehydrator",
+    "type_session": "time",
+    "media_resources": [
+      "Activated_Apple_Pie_Granola.jpeg"
+    ],
+    "stages": [
+      {
+        "initTemperature": 46,
+        "weight": null,
+        "duration": 43200,
+        "fanPerformance1": 100,
+        "fanPerformance2": 100,
+        "heatingIntensity": 100
+      }
+    ],
+    "recipe_ingredients": [
+      {
+        "action": "method",
+        "description": "Put the nuts and seeds in a medium-sized bowl along with about 5 cups of warm water (to cover generously). Cover with a towel and let soak overnight in a warm place, 8 to 12 hours."
+      },
+      {
+        "action": "method",
+        "description": "Put the date pieces in a small bowl, along with 1-1/2 cups of water. Cover with a plate or towel and let soak overnight, 8 to 12 hours."
+      },
+      {
+        "action": "method",
+        "description": "Put the rolled oats in a large bowl, along with 6 cups of warm water, apple cider vinegar and coconut water or apple juice. Cover with a plate or towel and let soak overnight in a warm place, 8 to 12 hours."
+      },
+      {
+        "action": "method",
+        "description": "When the soaking time is complete, drain the nuts and seeds, discarding the water and put in a large mixing bowl."
+      },
+      {
+        "action": "method",
+        "description": "Blend the dates, their soaking water, all the spices and salt in a blender or food processor until smooth. Add this paste to the large bowl with the nuts and seeds."
+      },
+      {
+        "action": "method",
+        "description": "Drain and rinse the oats in a fine colander or sieve. The drier you can get them, the quicker the dehydrating process with go. Add them to the big bowl with the date paste, nuts, seeds and add the grated apple. Toss gently to mix well."
+      },
+      {
+        "action": "method",
+        "description": "Spread thinly (1/4\" or 6.35 mm) on a non-stick mat lined dehydrator tray. This amount of granola fills almost 5 trays."
+      },
+      {
+        "action": "method",
+        "description": "Dehydrate at less than 115°F Fahrenheit (46.1 °C) for 8 to 24 hours. About halfway through the dehydrating time, check in on its process. Granola crispness is such a personal thing, I love mine super crunchy so leave it in as long as I can, my mum likes it super gooey so this would probably be a good time for her to take it out. Your granola - your preference!"
+      },
+      {
+        "action": "method",
+        "description": "When done, remove from the dehydrator and place the granola in a big bowl and break up into bite-sized chunks. Let cool completely before transferring to an airtight glass jar for storage."
+      },
+      {
+        "action": "ingredient",
+        "description": "3 cups raw nuts and seeds"
+      },
+      {
+        "action": "ingredient",
+        "description": "11 cups pure warm water"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 to 1 & 1/2 cups pure water"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 to 1 & 1/2 cups flour-free dates, chopped pieces or pitted whole dates, (or raisins or fig pieces)"
+      },
+      {
+        "action": "ingredient",
+        "description": "6 cups rolled oats, gluten-free if desired or any flaked grain such as spelt"
+      },
+      {
+        "action": "ingredient",
+        "description": "2 cups flaked coconut chips"
+      },
+      {
+        "action": "ingredient",
+        "description": "6 tablespoons raw apple cider vinegar"
+      },
+      {
+        "action": "ingredient",
+        "description": "2 cups of coconut water or apple juice"
+      },
+      {
+        "action": "ingredient",
+        "description": "5 tbsp. ground cinnamon"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 tbsp. ground ginger"
+      },
+      {
+        "action": "ingredient",
+        "description": "1/2 tbsp. ground nutmeg"
+      },
+      {
+        "action": "ingredient",
+        "description": "1/2 tbsp. ground cardamom"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 tbsp. vanilla extract"
+      },
+      {
+        "action": "ingredient",
+        "description": "1/2 tsp. sea salt"
+      },
+      {
+        "action": "ingredient",
+        "description": "4 apples, grated"
+      }
+    ],
+    "search_terms": [
+      "activated",
+      "apple",
+      "pie",
+      "granola"
+    ],
+    "favoriteByMachines": [],
+    "favoriteByUsers": []
+  },
+  {
+    "id": "34639440-5aea-428d-af0e-14ca188617aa",
+    "categoriesPath": [
+      [
+        "Dehydrated Meat",
+        "Livestock",
+        "Beef"
+      ],
+      [
+        "Dehydrated Meat",
+        "Jerky",
+        "Beef Jerky"
+      ],
+      [
+        "Dehydrated Meat",
+        "Livestock",
+        "Bison"
+      ],
+      [
+        "Dehydrated Meat",
+        "Jerky",
+        "Deer Jerky"
+      ],
+      [
+        "Dehydrated Meat",
+        "Jerky",
+        "Venison Jerky"
+      ]
+    ],
+    "recipe_name": "Burgundy jerky recipe",
+    "description": "Jerky is a great snack, with great potential for modifying the recipe to your unique preferences. In this blog, we take a look at some of the possible variations and share our favorite burgundy jerky recipe.",
+    "recipe_process": "recipe",
+    "machine_type": "dehydrator",
+    "type_session": "time",
+    "media_resources": [
+      "Burgundy_jerky_recipe.jpeg"
+    ],
+    "stages": [
+      {
+        "initTemperature": 63,
+        "weight": null,
+        "duration": 14400,
+        "fanPerformance1": 100,
+        "fanPerformance2": 100,
+        "heatingIntensity": 100
+      }
+    ],
+    "recipe_ingredients": [
+      {
+        "action": "method",
+        "description": "In a small glass bowl, combine all of the ingredients except the meat/poultry. Mix thoroughly.��"
+      },
+      {
+        "action": "method",
+        "description": "Place a layer of meat/poultry into a glass baking dish. Spoon sauce mixture over each layer.��"
+      },
+      {
+        "action": "method",
+        "description": "Repeat until the meat/poultry is 3-4 layers deep in the pan.��"
+      },
+      {
+        "action": "method",
+        "description": "Cover tightly and marinade for 6-12 hours in the refrigerator or overnight. Stir occasionally to keep the meat/poultry coated in marinade. The longer the meat/poultry stays in the marinade, the more flavour will be absorbed.��"
+      },
+      {
+        "action": "method",
+        "description": "Remove the meat/poultry from the marinade, removing excess marinade.��"
+      },
+      {
+        "action": "method",
+        "description": "Lay the meat/poultry evenly onto the dehydrator racks, leaving 1/4 inch (0.6cm) of space between each strip of meat/poultry.��"
+      },
+      {
+        "action": "method",
+        "description": "Dry meat poultry at 145°F-150°F (63-66°C) for 4-7 hours or until thoroughly dry."
+      },
+      {
+        "action": "ingredient",
+        "description": "2 cups burgundy wine"
+      },
+      {
+        "action": "ingredient",
+        "description": "1/2 cup soy sauce"
+      },
+      {
+        "action": "ingredient",
+        "description": "3 cloves garlic, chopped,"
+      },
+      {
+        "action": "ingredient",
+        "description": "3 tbsp molasses syrup"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 tbsp ground black pepper"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 lb. (0.5kg) lean meat, sliced into 1/8 - 1/4�� (0.3-0.6cm) thin strips"
+      }
+    ],
+    "search_terms": [
+      "burgundy",
+      "jerky",
+      "recipe"
+    ],
+    "favoriteByMachines": [],
+    "favoriteByUsers": []
+  },
+  {
+    "id": "b7aca62a-84ec-4baf-a6ae-f29cb6e3fffc",
+    "categoriesPath": [
+      [
+        "Vegetables",
+        "Peppers",
+        "Chili Pepper"
+      ]
+    ],
+    "recipe_name": "Dehydrated Chili Peppers",
+    "description": "Add some spice to your life with these dehydrated chili peppers. Great for adding some heat to your favorite recipies.",
+    "recipe_process": "recipe",
+    "machine_type": "dehydrator",
+    "type_session": "time",
+    "media_resources": [
+      "Dehydrated_Chili_Peppers.jpeg"
+    ],
+    "stages": [
+      {
+        "initTemperature": 63,
+        "weight": null,
+        "duration": 21600,
+        "fanPerformance1": 100,
+        "fanPerformance2": 100,
+        "heatingIntensity": 100
+      }
+    ],
+    "recipe_ingredients": [
+      {
+        "action": "method",
+        "description": "Wash and dry your chili peppers throwing away any peppers showing signs of rot."
+      },
+      {
+        "action": "method",
+        "description": "Wearing gloves, slice the thicker peppers in half or you can leave them whole if you prefer, but they will take longer to dehydrate."
+      },
+      {
+        "action": "method",
+        "description": "Place the peppers on the trays of the dehydrator making sure there is plenty of room for air circulation."
+      },
+      {
+        "action": "method",
+        "description": "Dehydrate at 145°F (63°C) for 6-10 hours depending on the size of the peppers."
+      },
+      {
+        "action": "method",
+        "description": "Store in a cool dry place in an airtight container."
+      },
+      {
+        "action": "method",
+        "description": "If you wish to make your own chili powder, place the dried chili's into a blender and pulse until you are left with a fine powder. Store in an airtight jar in a cool dry place."
+      },
+      {
+        "action": "ingredient",
+        "description": "Fresh Chili Peppers"
+      }
+    ],
+    "search_terms": [
+      "dehydrated",
+      "chili",
+      "peppers"
+    ],
+    "favoriteByMachines": [],
+    "favoriteByUsers": []
+  },
+  {
+    "id": "e53f207f-ca25-40c6-a72e-d8dfbb532a39",
+    "categoriesPath": [
+      [
+        "Fruit",
+        "Fruit Roll-Ups / Leather",
+        "Fruit Roll-Ups / Leather"
+      ]
+    ],
+    "recipe_name": "Dehydrated Fruit Roll-Ups",
+    "description": "30 seconds hands on prep time then let your dehydrator do the work! Cut and roll or tear apart - it’s literally THAT SIMPLE! We have some great basic recipes with fun flavors for you but play around with! Add almost EVERYTHING! Fresh, frozen & tinned ingredients all work well! Some need a touch of sweetener others you can leave out!! As long as you have a ‘smoothie’ consistency and you spread the wet ingredients to a 5mm thickness it will work!",
+    "recipe_process": "recipe",
+    "machine_type": "dehydrator",
+    "type_session": "time",
+    "media_resources": [
+      "Dehydrated_Fruit_RollUps.jpeg"
+    ],
+    "stages": [
+      {
+        "initTemperature": 40,
+        "weight": null,
+        "duration": 21600,
+        "fanPerformance1": 100,
+        "fanPerformance2": 100,
+        "heatingIntensity": 100
+      }
+    ],
+    "recipe_ingredients": [
+      {
+        "action": "method",
+        "description": "Blend all of your ingredients together until you have a smoothie like consistency."
+      },
+      {
+        "action": "method",
+        "description": "Spread out mixture on a non-stick dehydrator mat and dehydrate at 104°F (40°C) for 6-8 hours."
+      },
+      {
+        "action": "method",
+        "description": "Peel the roll-up off the non-stick mat and cut & roll or rip into pieces and store in an airtight container with a moisture absorber."
+      },
+      {
+        "action": "ingredient",
+        "description": "2 Cups Mango"
+      },
+      {
+        "action": "ingredient",
+        "description": "2 Cups Pineapple"
+      },
+      {
+        "action": "ingredient",
+        "description": "2 Cups Pear"
+      },
+      {
+        "action": "ingredient",
+        "description": "2 Cups Raspberries"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 Tbsp. Honey"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 Vanilla Bean"
+      },
+      {
+        "action": "ingredient",
+        "description": "Juice of 1 medium Lemon"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 Cup Apple"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 Tbsp. Maple syrup"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 tsp. Lemon Zest"
+      },
+      {
+        "action": "ingredient",
+        "description": "2 Cups Peaches"
+      },
+      {
+        "action": "ingredient",
+        "description": "2 Cups Apricots"
+      },
+      {
+        "action": "ingredient",
+        "description": "2 cups Strawberries"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 Cup Greek Yoghurt"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 Tbsp Maple Syrup"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 Vanilla Pod"
+      },
+      {
+        "action": "ingredient",
+        "description": "2 Cups Mixed Berries"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 Cup Blueberries"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 Cup Banana"
+      }
+    ],
+    "search_terms": [
+      "dehydrated",
+      "fruit",
+      "rollups"
+    ],
+    "favoriteByMachines": [],
+    "favoriteByUsers": []
+  },
+  {
+    "id": "c4644e40-f549-4856-b937-14b4acd2d1a5",
+    "categoriesPath": [
+      [
+        "Fruit",
+        "Citrus",
+        "Lemon"
+      ]
+    ],
+    "recipe_name": "Dried Lemons",
+    "description": "Make your own dried lemons for your cocktails or make your own lemon powder with this simple recipe.",
+    "recipe_process": "recipe",
+    "machine_type": "dehydrator",
+    "type_session": "time",
+    "media_resources": [
+      "Dried_Lemons.jpeg"
+    ],
+    "stages": [
+      {
+        "initTemperature": 52,
+        "weight": null,
+        "duration": 64800,
+        "fanPerformance1": 100,
+        "fanPerformance2": 100,
+        "heatingIntensity": 100
+      }
+    ],
+    "recipe_ingredients": [
+      {
+        "action": "method",
+        "description": "Wash and dry your lemons and slice into 1/4 inch (6 mm) slices."
+      },
+      {
+        "action": "method",
+        "description": "Evenly space your cut lemons onto a dehydrator tray and dehydrate at 125°F (52°C) for 18-36 hours."
+      },
+      {
+        "action": "method",
+        "description": "Store dry lemons in an airtight container in a cool dry place."
+      },
+      {
+        "action": "method",
+        "description": "If you want to make lemon powder then put your dry lemons into a blender and pulse until you have a fine powder. Store in an airtight container in a cool dry place."
+      },
+      {
+        "action": "ingredient",
+        "description": "Lemons"
+      }
+    ],
+    "search_terms": [
+      "dried",
+      "lemons"
+    ],
+    "favoriteByMachines": [],
+    "favoriteByUsers": []
+  },
+  {
+    "id": "b75b2982-4ccb-44ec-8dd3-8342af37f8a5",
+    "categoriesPath": [
+      [
+        "Fruit",
+        "Misc. Fruits",
+        "Apple"
+      ],
+      [
+        "Fruit",
+        "Misc. Fruits",
+        "Pear"
+      ],
+      [
+        "Fruit",
+        "Stone Fruit",
+        "Apricot"
+      ],
+      [
+        "Fruit",
+        "Stone Fruit",
+        "Peach"
+      ],
+      [
+        "Fruit",
+        "Tropical",
+        "Mango"
+      ]
+    ],
+    "recipe_name": "How to dry fruit",
+    "description": "Dried fruit is a great snack and dehydrating fruits and vegetables a fantastic way of reducing food waste. In this blog, we take a look at what you need to consider for a safe dehydrating",
+    "recipe_process": "recipe",
+    "machine_type": "dehydrator",
+    "type_session": "time",
+    "media_resources": [
+      "How_to_dry_fruit.jpeg"
+    ],
+    "stages": [
+      {
+        "initTemperature": 57,
+        "weight": null,
+        "duration": 64800,
+        "fanPerformance1": 100,
+        "fanPerformance2": 100,
+        "heatingIntensity": 100
+      }
+    ],
+    "recipe_ingredients": [
+      {
+        "action": "method",
+        "description": "Wash and slice your lemons into 1/4 inch (6 mm) slices."
+      },
+      {
+        "action": "method",
+        "description": "Mix equal parts lemon juice and water and submerge the sliced lemons. This helps keep the lemons looking better for longer."
+      },
+      {
+        "action": "method",
+        "description": "Place the sliced lemons onto dehydrator trays and dehydrate between 95-135°F (35-57°C) for 18-36 hours. (Dehydrating your lemons at a lower temperature will maintain the color as lemons like to brown during the dehydration process. The flavor profile is still very similar depending on which route you decide to take.)"
+      },
+      {
+        "action": "method",
+        "description": "Once your lemons are completely dry and slightly pliable, store in an airtight container with an oxygen absorber in a cool dark place."
+      },
+      {
+        "action": "ingredient",
+        "description": "Lemons"
+      },
+      {
+        "action": "ingredient",
+        "description": "Lemon Juice"
+      },
+      {
+        "action": "ingredient",
+        "description": "Water"
+      }
+    ],
+    "search_terms": [
+      "how",
+      "to",
+      "dry",
+      "fruit"
+    ],
+    "favoriteByMachines": [],
+    "favoriteByUsers": []
+  },
+  {
+    "id": "9bcf509e-33de-4d92-adc7-a81496c08713",
+    "categoriesPath": [
+      [
+        "Meals",
+        "Snacks",
+        "Snacks"
+      ]
+    ],
+    "recipe_name": "Mushroom Jerky Trail Mix",
+    "description": "Whether you're hiking through the woods, spending time on the lake, or just getting out of the city, this Mushroom Jerky Trail Mix is your new go-to for a snack. We've combined mushrooms, nuts, seeds and some spices to create a crunchy trail mix that you'll love.",
+    "recipe_process": "recipe",
+    "machine_type": "dehydrator",
+    "type_session": "time",
+    "media_resources": [
+      "Mushroom_Jerky_Trail_Mix.jpeg"
+    ],
+    "stages": [
+      {
+        "initTemperature": 54,
+        "weight": null,
+        "duration": 28800,
+        "fanPerformance1": 100,
+        "fanPerformance2": 100,
+        "heatingIntensity": 100
+      }
+    ],
+    "recipe_ingredients": [
+      {
+        "action": "method",
+        "description": "Place the almonds and pepita seeds in a bowl, and cover with water, allowing to soak overnight. Drain off excess water."
+      },
+      {
+        "action": "method",
+        "description": "Brush the mushrooms caps of any large dirt or debris, then wipe them clean with a damp cloth or paper towel. Remove and reserve the stems. Tear the mushrooms caps in large, equally-sized pieces, leaving any smaller caps whole"
+      },
+      {
+        "action": "method",
+        "description": "Whisk the tamari, rice vinegar, maple syrup and spices together in a large mixing bowl. Add the almond seed mix, mushroom caps and stems to the bowl, then gently toss until everything is well coated in the marinade. Cover the bowl and refrigerate for at least 8 hours."
+      },
+      {
+        "action": "method",
+        "description": "Line a mesh dehydrator tray with the non-stick mesh mats. Drain the mushroom pieces of any excess marinade, then place them on a dehydrator tray in an even layer."
+      },
+      {
+        "action": "method",
+        "description": "Transfer the dehydrator tray to the dehydrator that's set to 130°F (55°C) and dehydrate for 8 hours until the mushroom's have a firm, but pliable texture"
+      },
+      {
+        "action": "method",
+        "description": "Enjoy immediately, or store in an airtight container in the refrigerator for up to a week."
+      },
+      {
+        "action": "ingredient",
+        "description": "8oz shiitake mushrooms"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 cup almonds"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 cup mixed pepita and sunflower seeds"
+      },
+      {
+        "action": "ingredient",
+        "description": "1/4 cup tamari"
+      },
+      {
+        "action": "ingredient",
+        "description": "2 tbsp. unseasoned rice vinegar"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 tbsp. maple syrup (optional)"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 tsp. garlic powder"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 tsp. onion powder"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 tsp. smoked paprika"
+      },
+      {
+        "action": "ingredient",
+        "description": "1/2 tsp. red pepper flakes"
+      },
+      {
+        "action": "ingredient",
+        "description": "1/2 tsp. black pepper"
+      }
+    ],
+    "search_terms": [
+      "mushroom",
+      "jerky",
+      "trail",
+      "mix"
+    ],
+    "favoriteByMachines": [],
+    "favoriteByUsers": []
+  },
+  {
+    "id": "1a71fe96-f703-4b68-b1be-195437f4089d",
+    "categoriesPath": [
+      [
+        "Dehydrated Meat",
+        "Biltong",
+        "Biltong"
+      ]
+    ],
+    "recipe_name": "South African Biltong Recipe",
+    "description": "Biltong is a great snack, with great potential for modifying the recipe to your unique preferences. In this blog, we take a look at some of the possible variations and share our favorite South African biltong recipe.",
+    "recipe_process": "recipe",
+    "machine_type": "dehydrator",
+    "type_session": "time",
+    "media_resources": [
+      "South_African_Biltong_Recipe.jpeg"
+    ],
+    "stages": [
+      {
+        "initTemperature": 30,
+        "weight": null,
+        "duration": 86400,
+        "fanPerformance1": 100,
+        "fanPerformance2": 100,
+        "heatingIntensity": 100
+      }
+    ],
+    "recipe_ingredients": [
+      {
+        "action": "method",
+        "description": "In a dry pan toast the coriander seeds. Remove and grind with a mortar and pestle or spice grinder."
+      },
+      {
+        "action": "method",
+        "description": "Prepare the meat by using a sharp knife and cut into one inch (2.5 cm) thick pieces along the grain of the meat and place into a glass container."
+      },
+      {
+        "action": "method",
+        "description": "Combine all the spices including the vinegar and rub into the meat. Cover and let the biltong cure overnight in the refrigerator."
+      },
+      {
+        "action": "method",
+        "description": "Remove the meat and pat dry taking care to not remove the seasoning."
+      },
+      {
+        "action": "method",
+        "description": "Put each biltong onto a hook and hang it on the rack in your dehydrator."
+      },
+      {
+        "action": "method",
+        "description": "It will take about 24 hours - 72 hours at 30°C ( 86°F) depending on the thickness of the meat and the fattiness, the thinner and leaner the quick it is to cure, the thicker and fattier the longer it will take for the meat to cure. You should not be able to feel any give in the meat when you pinch it, that is the indication it is done."
+      },
+      {
+        "action": "method",
+        "description": "Once cured, you can cut the pieces into bite size pieces and savor the biltong!"
+      },
+      {
+        "action": "ingredient",
+        "description": "2 lbs top rump beef"
+      },
+      {
+        "action": "ingredient",
+        "description": "3 Tablespoons vinegar malt or cider"
+      },
+      {
+        "action": "ingredient",
+        "description": "2 Tablespoons salt coarse"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 teaspoon black pepper ground"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 Tablespoon coriander seeds"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 Tablespoon Brown sugar"
+      }
+    ],
+    "search_terms": [
+      "south",
+      "african",
+      "biltong",
+      "recipe"
+    ],
+    "favoriteByMachines": [],
+    "favoriteByUsers": []
+  },
+  {
+    "id": "0a4eb9a9-1872-4e2d-95bf-64e8471ada7b",
+    "categoriesPath": [
+      [
+        "Meals",
+        "Breakfast",
+        "Breakfast"
+      ],
+      [
+        "Fruit",
+        "Misc. Fruits",
+        "Apple"
+      ],
+      [
+        "Nuts, Grains & Seeds",
+        "Nuts",
+        "Walnuts"
+      ],
+      [
+        "Nuts, Grains & Seeds",
+        "Seeds",
+        "Flax Seeds"
+      ]
+    ],
+    "recipe_name": "Apple and Nut Raw Cereal",
+    "description": "If you are looking for ideas for a raw breakfast, then look no further! This apple and nut cereal has a more interesting texture and flavor than a smoothie and far fewer calories and trans-fats than a store-bought cereal. This cereal contains wheat berries, which are the entire wheat kernel. They have a crunchy texture when cooked and work equally well in savory and sweet dishes.",
+    "recipe_process": "recipe",
+    "machine_type": "dehydrator",
+    "type_session": "time",
+    "media_resources": [
+      "Apple_and_Nut_Raw_Cereal.jpeg"
+    ],
+    "stages": [
+      {
+        "initTemperature": 46,
+        "weight": null,
+        "duration": 64800,
+        "fanPerformance1": 100,
+        "fanPerformance2": 100,
+        "heatingIntensity": 100
+      }
+    ],
+    "recipe_ingredients": [
+      {
+        "action": "method",
+        "description": "Combine  apple,  wheat  berries, flax  seeds,  walnuts,  flour, seeds, cinnamon and salt."
+      },
+      {
+        "action": "method",
+        "description": "Blend  coconut  oil,  maple  syrup  and  apple  juice  with  a whisk."
+      },
+      {
+        "action": "method",
+        "description": "Add dry ingredients to wet ingredients and stir thoroughly."
+      },
+      {
+        "action": "method",
+        "description": "Dehydrate at 115°F (46°C) for 18-24 hours. When crispy, break into large pieces."
+      },
+      {
+        "action": "ingredient",
+        "description": "1 apple, peeled, cored and diced"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 cup sprouted wheat berries"
+      },
+      {
+        "action": "ingredient",
+        "description": "1/2 cup flax seeds, ground"
+      },
+      {
+        "action": "ingredient",
+        "description": "1/2 cup diced raw walnuts"
+      },
+      {
+        "action": "ingredient",
+        "description": "1/2 cup millet flour"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 cup sunflower seeds"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 tsp. cinnamon"
+      },
+      {
+        "action": "ingredient",
+        "description": "1/4 tsp. salt"
+      },
+      {
+        "action": "ingredient",
+        "description": "1/4 cup coconut oil, melted"
+      },
+      {
+        "action": "ingredient",
+        "description": "1/4 cup maple syrup"
+      },
+      {
+        "action": "ingredient",
+        "description": "3 Tbsp. apple juice"
+      }
+    ],
+    "search_terms": [
+      "apple",
+      "nut",
+      "raw",
+      "cereal"
+    ],
+    "favoriteByMachines": [],
+    "favoriteByUsers": []
+  },
+  {
+    "id": "408964be-4aac-4659-9bd1-cef5e8ba684e",
+    "categoriesPath": [
+      [
+        "Meals",
+        "Snacks",
+        "Snacks"
+      ],
+      [
+        "Fruit",
+        "Misc. Fruits",
+        "Apple"
+      ],
+      [
+        "Fruit",
+        "Tropical",
+        "Banana / Plantain"
+      ]
+    ],
+    "recipe_name": "Apple And Banana Ring Chips",
+    "description": "Dehydrated apples and bananas are gluten-free, vegan, allergy-friendly snacks with all the flavor and crunch of fresh fruit. They work great as a snack on their own or as an addition to your morning yogurt or granola.",
+    "recipe_process": "recipe",
+    "machine_type": "dehydrator",
+    "type_session": "time",
+    "media_resources": [
+      "Apple_And_Banana_Ring_Chips.jpeg"
+    ],
+    "stages": [
+      {
+        "initTemperature": 57,
+        "weight": null,
+        "duration": 43200,
+        "fanPerformance1": 100,
+        "fanPerformance2": 100,
+        "heatingIntensity": 100
+      }
+    ],
+    "recipe_ingredients": [
+      {
+        "action": "method",
+        "description": "Pour apple juice into a bowl. Dip apple rings into juice and set on dehydrator tray without touching each other."
+      },
+      {
+        "action": "method",
+        "description": "Set banana slices on different dehydrator tray. Sprinkle sliced fruit with nutmeg and cinnamon."
+      },
+      {
+        "action": "method",
+        "description": "Dehydrate at 135°F (57°C) for 8 to 12 hours or until fruit slices don't have any moisture spots. If necessary, rotate trays to dry fruits equally. Turn off the dehydrator and set aside to cool."
+      },
+      {
+        "action": "ingredient",
+        "description": "1/4 cup apple juice, unsweetened"
+      },
+      {
+        "action": "ingredient",
+        "description": "2 medium-size apples, cored and sliced into rings, about 1/4 inch thick"
+      },
+      {
+        "action": "ingredient",
+        "description": "2 medium-size bananas, sliced into rounds, about 1/4 inch thick"
+      },
+      {
+        "action": "ingredient",
+        "description": "1 tablespoon ground cinnamon"
+      },
+      {
+        "action": "ingredient",
+        "description": "1/4 teaspoon ground nutmeg"
+      }
+    ],
+    "search_terms": [
+      "apple",
+      "banana",
+      "ring",
+      "chips"
+    ],
+    "favoriteByMachines": [],
+    "favoriteByUsers": []
+  }
+]

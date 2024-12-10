@@ -1,0 +1,329 @@
+{
+  "models-data": [
+    {
+      "model": "16CUDG",
+      "machineType": "dehydrator",
+      "zones": ["middle"],
+      "brand": "BenchFoods",
+      "maxPowerUsage": {
+        "m": "1.875 kW ",
+        "i": "1.5 kW"
+      },
+      "avgPowerUsage": {
+        "m": "750 W",
+        "i": "600 W"
+      },
+
+      "voltageFrequency": {
+        "m": "220-240V/50-60Hz",
+        "i": "110V/50-60Hz"
+      },
+      "maxAmperage": {
+        "m": "8A",
+        "i": "14A"
+      },
+      "safetyBreakerRequired": "Single Phase/10A (Standard Household Outlet)",
+      "powerCable": "Standard Household Plug Included",
+      "temperatureRange": {
+        "m": "Ambient Mode, 30 - 90°C",
+        "i": "Ambient Mode, 85 - 195°F"
+      },
+      "timer": "0 - 99hr",
+      "independentZones": 1,
+      "totalTrayArea": {
+        "m": "2.56 m²",
+        "i": "28 sq. ft"
+      },
+      "totalTrays": 16,
+      "trayDimensions": { "m": "40 x 40 cm", "i": "16\" x 16\"" },
+      "spaceBetweenTrays": { "m": "35 mm", "i": "1 2/5\"" },
+      "trayMeshSpacing": { "m": "8 x 8 mm", "i": "5/16\" x 5/16\"" },
+      "machineWeight": { "m": "30kg", "i": "66lbs" },
+      "productDimensions": {
+        "m": "470 x 730 x 575 mm",
+        "i": "18.5\" x 2' 4.75\" x 22.75\""
+      },
+      "features": "Memory Function, Ambient Air Mode"
+    },
+    {
+      "model": "28CUD",
+      "machineType": "dehydrator",
+      "zones": ["top", "bottom"],
+      "brand": "BenchFoods",
+      "maxPowerUsage": {
+        "m": "7 kW (3.5kW x 2 Zones)",
+        "i": "6 kW (3kW x 2 Zones)"
+      },
+      "avgPowerUsage": {
+        "m": "2.8 kW (1.4kW x 2 Zones)",
+        "i": "2.4 kW (1.2kW x 2 Zones)"
+      },
+      "voltageFrequency": {
+        "m": "200-240V/50-60Hz",
+        "i": "200-240V/50-60Hz"
+      },
+      "maxAmperage": {
+        "m": "29A",
+        "i": "29A"
+      },
+      "safetyBreakerRequired": "Single Phase/32A",
+      "powerCable": "3-Wire Cable, No Plug Tip",
+      "temperatureRange": {
+        "m": "Ambient Mode, 30 - 90°C",
+        "i": "Ambient Mode, 85 - 195°F"
+      },
+      "timer": "0 - 99hr",
+      "independentZones": 2,
+      "totalTrayArea": {
+        "m": "11.9 m²",
+        "i": "130 sq. ft"
+      },
+      "totalTrays": 28,
+      "trayDimensions": {
+        "m": "50 x 85 cm",
+        "i": "20\" x 33.5\""
+      },
+      "spaceBetweenTrays": {
+        "m": "50 mm",
+        "i": "2\""
+      },
+      "trayMeshSpacing": {
+        "m": "12 x 12 mm",
+        "i": "1/2\" x 1/2\""
+      },
+      "machineWeight": {
+        "m": "140kg",
+        "i": "310lbs"
+      },
+      "productDimensions": {
+        "m": "880 x 1690 x 670 mm",
+        "i": "2' 10.5\" x 5' 6.5\" x 2' 2.5\""
+      },
+      "features": "Memory Function, Ambient Air Mode"
+    },
+    {
+      "brand": "BenchFoods",
+      "model": "30CUD",
+      "machineType": "dehydrator",
+      "zones": ["top", "middle", "bottom"],
+      "maxPowerUsage": {
+        "m": "3 kW",
+        "i": "3 kW"
+      },
+      "avgPowerUsage": {
+        "m": "1.2 kW",
+        "i": "1.2 kW"
+      },
+      "voltageFrequency": {
+        "m": "200-240V/50-60Hz",
+        "i": "200-240V/50-60Hz"
+      },
+      "maxAmperage": {
+        "m": "12A",
+        "i": "12A"
+      },
+      "safetyBreakerRequired": "Single Phase/15A",
+      "powerCable": "3-Wire Cable, No Plug Tip",
+      "temperatureRange": {
+        "m": "Ambient Mode, 30 - 90°C",
+        "i": "Ambient Mode, 85 - 195°F"
+      },
+      "timer": "0 - 99hr",
+      "independentZones": 3,
+      "totalTrayArea": {
+        "m": "4.8 m²",
+        "i": "53 sq. ft"
+      },
+      "totalTrays": 30,
+      "trayDimensions": {
+        "m": "40 x 40 cm",
+        "i": "16\" x 16\""
+      },
+      "spaceBetweenTrays": {
+        "m": "35 mm",
+        "i": "1 2/5\""
+      },
+      "trayMeshSpacing": {
+        "m": "8 x 8 mm",
+        "i": "5/16\" x 5/16\""
+      },
+      "machineWeight": {
+        "m": "43.5kg",
+        "i": "96 lbs"
+      },
+      "productDimensions": {
+        "m": "440 x 1385 x 535 mm",
+        "i": "17.25\" x 4' 6.5\" x 21.25\""
+      },
+      "features": "Memory Function, Ambient Air Mode"
+    },
+    {
+      "brand": "BenchFoods",
+      "model": "32VCUD",
+      "machineType": "dehydrator",
+      "zones": ["top", "bottom"],
+      "maxPowerUsage": {
+        "m": "3.75 kW",
+        "i": "3.75 kW"
+      },
+      "avgPowerUsage": {
+        "m": "1.5 kW",
+        "i": "1.5 kW"
+      },
+      "voltageFrequency": {
+        "m": "200-240V/50-60Hz",
+        "i": "200-240V/50-60Hz"
+      },
+      "maxAmperage": {
+        "m": "15A",
+        "i": "15A"
+      },
+      "safetyBreakerRequired": "Single Phase/20A",
+      "powerCable": "3-Wire Cable, No Plug Tip",
+      "temperatureRange": {
+        "m": "Ambient Mode, 30 - 90°C",
+        "i": "Ambient Mode, 85 - 195°F"
+      },
+      "timer": "0 - 99hr",
+      "independentZones": 2,
+      "totalTrayArea": {
+        "m": "5.12 m²",
+        "i": "57 sq. ft"
+      },
+      "totalTrays": 32,
+      "trayDimensions": {
+        "m": "40 x 40 cm",
+        "i": "16\" x 16\""
+      },
+      "spaceBetweenTrays": {
+        "m": "35 mm",
+        "i": "1 2/5\""
+      },
+      "trayMeshSpacing": {
+        "m": "8 x 8 mm",
+        "i": "5/16\" x 5/16\""
+      },
+      "machineWeight": {
+        "m": "55kg",
+        "i": "121 lbs"
+      },
+      "productDimensions": {
+        "m": "470 x 1370 x 575 mm",
+        "i": "18.5\" x 4' 6\" x 22.75\""
+      },
+      "features": "Memory Function, Ambient Air Mode"
+    },
+    {
+      "brand": "BenchFoods",
+      "model": "32HCUD",
+      "machineType": "dehydrator",
+      "zones": ["left", "right"],
+      "maxPowerUsage": {
+        "m": "3.75 kW",
+        "i": "3.75 kW"
+      },
+      "avgPowerUsage": {
+        "m": "1.5 kW",
+        "i": "1.5 kW"
+      },
+      "voltageFrequency": {
+        "m": "200-240V/50-60Hz",
+        "i": "200-240V/50-60Hz"
+      },
+      "maxAmperage": {
+        "m": "15A",
+        "i": "15A"
+      },
+      "safetyBreakerRequired": "Single Phase/20A",
+      "powerCable": "3-Wire Cable, No Plug Tip",
+      "temperatureRange": {
+        "m": "Ambient Mode, 30 - 90°C",
+        "i": "Ambient Mode, 85 - 195°F"
+      },
+      "timer": "0 - 99hr",
+      "independentZones": 2,
+      "totalTrayArea": {
+        "m": "5.12 m²",
+        "i": "57 sq. ft"
+      },
+      "totalTrays": 32,
+      "trayDimensions": {
+        "m": "40 x 40 cm",
+        "i": "16\" x 16\""
+      },
+      "spaceBetweenTrays": {
+        "m": "35 mm",
+        "i": "1 2/5\""
+      },
+      "trayMeshSpacing": {
+        "m": "8 x 8 mm",
+        "i": "5/16\" x 5/16\""
+      },
+      "machineWeight": {
+        "m": "52kg",
+        "i": "113 lbs"
+      },
+      "productDimensions": {
+        "m": "930 x 790 x 550 mm",
+        "i": "3' .5\" x 2' 7.25\" x 21.5\""
+      },
+      "features": "Memory Function, Ambient Air Mode"
+    },
+    {
+      "brand": "BenchFoods",
+      "model": "60CUD",
+      "machineType": "dehydrator",
+      "zones": ["left", "middle", "right"],
+      "maxPowerUsage": {
+        "m": "4.5 kW (1.5 kW x 3 Zones)",
+        "i": "4.5 kW (1.5 kW x 3 Zones)"
+      },
+      "avgPowerUsage": {
+        "m": "1.8 kW (600 W x 3 Zones)",
+        "i": "1.8 kW (600 W x 3 Zones)"
+      },
+      "voltageFrequency": {
+        "m": "200-240V/50-60Hz",
+        "i": "200-240V/50-60Hz"
+      },
+      "maxAmperage": {
+        "m": "19.56A",
+        "i": "19.56A"
+      },
+      "safetyBreakerRequired": "Single Phase/25A",
+      "powerCable": "3-Wire Cable, No Plug Tip",
+      "temperatureRange": {
+        "m": "Ambient Mode, 30 - 90°C",
+        "i": "Ambient Mode, 85 - 195°F"
+      },
+      "timer": "0 - 99hr",
+      "independentZones": 2,
+      "totalTrayArea": {
+        "m": "9.6 m²",
+        "i": "107 sq. ft"
+      },
+      "totalTrays": 60,
+      "trayDimensions": {
+        "m": "40 x 40 cm",
+        "i": "16\" x 16\""
+      },
+      "spaceBetweenTrays": {
+        "m": "35 mm",
+        "i": "1 2/5\""
+      },
+      "trayMeshSpacing": {
+        "m": "8 x 8 mm",
+        "i": "5/16\" x 5/16\""
+      },
+      "machineWeight": {
+        "m": "86kg",
+        "i": "190 lbs"
+      },
+      "productDimensions": {
+        "m": "1410 x 930 x 555 mm",
+        "i": "4' 7.5\" x 3' .5\" x 22\""
+      },
+      "features": "Memory Function, Ambient Air Mode"
+    }
+  ]
+}

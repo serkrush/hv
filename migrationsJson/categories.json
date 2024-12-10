@@ -1,0 +1,448 @@
+{
+  "categories-data": [
+    {
+      "category_name": "Dehydrated Meat",
+      "categories": [
+        {
+          "category_name": "Jerky",
+          "categories": [
+            { "category_name": "Beef Jerky" },
+            { "category_name": "Chicken Jerky" },
+            { "category_name": "Deer Jerky" },
+            { "category_name": "Duck Jerky" },
+            { "category_name": "Fish Jerky" },
+            { "category_name": "Lamb Jerky" },
+            { "category_name": "Turkey Jerky" },
+            { "category_name": "Venison Jerky" }
+          ]
+        },
+        {
+          "category_name": "Biltong",
+          "categories": [{ "category_name": "Biltong" }]
+        },
+        {
+          "category_name": "Seafood",
+          "categories": [
+            { "category_name": "Halibut" },
+            { "category_name": "Imitation Crab" },
+            { "category_name": "Prawns" },
+            { "category_name": "Salmon" },
+            { "category_name": "Sardines" },
+            { "category_name": "Shrimp" },
+            { "category_name": "Trout" },
+            { "category_name": "Tuna" }
+          ]
+        },
+        {
+          "category_name": "Poultry",
+          "categories": [
+            { "category_name": "Chicken" },
+            { "category_name": "Duck" }
+          ]
+        },
+        {
+          "category_name": "Livestock",
+          "categories": [
+            { "category_name": "Beef" },
+            { "category_name": "Bison" },
+            { "category_name": "Ham" },
+            { "category_name": "Pastrami" },
+            { "category_name": "Pork" }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Fruit",
+      "categories": [
+        {
+          "category_name": "Fruit Roll-Ups / Leather",
+          "categories": [
+            {
+              "category_name": "Fruit Roll-Ups / Leather"
+            }
+          ]
+        },
+        {
+          "category_name": "Citrus",
+          "categories": [
+            { "category_name": "Grapefruit" },
+            { "category_name": "Lemon" },
+            { "category_name": "Lime" },
+            { "category_name": "Mandarin" },
+            { "category_name": "Orange" }
+          ]
+        },
+        {
+          "category_name": "Berries",
+          "categories": [
+            { "category_name": "Blackberry" },
+            { "category_name": "Blueberry" },
+            { "category_name": "Cranberry" },
+            { "category_name": "Goji Berry" },
+            { "category_name": "Raspberry" },
+            { "category_name": "Strawberry" }
+          ]
+        },
+        {
+          "category_name": "Tropical",
+          "categories": [
+            { "category_name": "Banana / Plantain" },
+            { "category_name": "Kiwi Fruit" },
+            { "category_name": "Mango" },
+            { "category_name": "Papaya" },
+            { "category_name": "Passionfruit" },
+            { "category_name": "Pineapple" },
+            { "category_name": "Watermelon" }
+          ]
+        },
+        {
+          "category_name": "Stone Fruit",
+          "categories": [
+            { "category_name": "Apricot" },
+            { "category_name": "Peach" },
+            { "category_name": "Plum" }
+          ]
+        },
+        {
+          "category_name": "Misc. Fruits",
+          "categories": [
+            { "category_name": "Apple" },
+            { "category_name": "Cantaloupe" },
+            { "category_name": "Cherry" },
+            { "category_name": "Cherry Tomato" },
+            { "category_name": "Coconut" },
+            { "category_name": "Cucumber" },
+            { "category_name": "Dates" },
+            { "category_name": "Fig" },
+            { "category_name": "Grapes / Raisins" },
+            { "category_name": "Olive" },
+            { "category_name": "Pear" },
+            { "category_name": "Plum Tomato" },
+            { "category_name": "Rose Hips" },
+            { "category_name": "Tomato" }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Vegetables",
+      "categories": [
+        {
+          "category_name": "Veg Roll-Ups / Leather",
+          "categories": [
+            {
+              "category_name": "Veg Roll-Ups / Leather"
+            }
+          ]
+        },
+        {
+          "category_name": "Root Vegetables",
+          "categories": [
+            { "category_name": "Beets" },
+            { "category_name": "Carrot" },
+            { "category_name": "Parsnip" },
+            { "category_name": "Potato" },
+            { "category_name": "Pumpkin" },
+            { "category_name": "Radish" },
+            { "category_name": "Sweet Potato / Yam" },
+            { "category_name": "Tapioca" },
+            { "category_name": "Turnip" }
+          ]
+        },
+        {
+          "category_name": "Beans",
+          "categories": [
+            { "category_name": "Baked Beans" },
+            { "category_name": "Black Beans" },
+            { "category_name": "Chickpea" },
+            { "category_name": "Green Beans" },
+            { "category_name": "Misc. Beans" },
+            { "category_name": "Peas" }
+          ]
+        },
+        {
+          "category_name": "Flower",
+          "categories": [
+            { "category_name": "Broccoli" },
+            { "category_name": "Cauliflower" }
+          ]
+        },
+        {
+          "category_name": "Bulbs",
+          "categories": [
+            { "category_name": "Garlic" },
+            { "category_name": "Ginger" },
+            { "category_name": "Leek" },
+            { "category_name": "Onion" }
+          ]
+        },
+        {
+          "category_name": "Leafy",
+          "categories": [
+            { "category_name": "Brussels Sprouts" },
+            { "category_name": "Cabbage" },
+            { "category_name": "Celery" },
+            { "category_name": "Collard Greens" },
+            { "category_name": "Kale" },
+            { "category_name": "Lettuce" },
+            { "category_name": "Sauerkraut" },
+            { "category_name": "Spinach" }
+          ]
+        },
+        {
+          "category_name": "Peppers",
+          "categories": [
+            { "category_name": "Bell Pepper" },
+            { "category_name": "Chili Pepper" },
+            { "category_name": "Jalapeno" }
+          ]
+        },
+        {
+          "category_name": "Misc. Vegetables",
+          "categories": [
+            { "category_name": "Artichoke" },
+            { "category_name": "Asparagus" },
+            { "category_name": "Corn" },
+            { "category_name": "Eggplant" },
+            { "category_name": "Mushrooms" },
+            { "category_name": "Okra" },
+            { "category_name": "Rhubarb" },
+            { "category_name": "Squash" },
+            { "category_name": "Zucchini" }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Pet Foods",
+      "categories": [
+        {
+          "category_name": "Dog Treats",
+          "categories": [
+            {
+              "category_name": "Dog Treats"
+            }
+          ]
+        },
+        {
+          "category_name": "Cat Treats",
+          "categories": [
+            {
+              "category_name": "Cat Treats"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Nuts, Grains & Seeds",
+      "categories": [
+        {
+          "category_name": "Crackers",
+          "categories": [
+            {
+              "category_name": "Crackers"
+            }
+          ]
+        },
+        {
+          "category_name": "Nuts",
+          "categories": [
+            { "category_name": "Almonds" },
+            { "category_name": "Cashews" },
+            { "category_name": "Hazelnut" },
+            { "category_name": "Macadamia" },
+            { "category_name": "Peanuts" },
+            { "category_name": "Pecans" },
+            { "category_name": "Walnuts" }
+          ]
+        },
+        {
+          "category_name": "Grains",
+          "categories": [
+            { "category_name": "Buckwheat" },
+            { "category_name": "Oats" },
+            { "category_name": "Quinoa" },
+            { "category_name": "Rice" }
+          ]
+        },
+        {
+          "category_name": "Seeds",
+          "categories": [
+            { "category_name": "Chia" },
+            { "category_name": "Flax Seeds" },
+            { "category_name": "Pumpkin / Pepita Seeds" },
+            { "category_name": "Sesame Seeds" },
+            { "category_name": "Sunflower Seeds" }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Herbs / Spices",
+      "categories": [
+        {
+          "category_name": "Spices",
+          "categories": [
+            { "category_name": "Chili" },
+            { "category_name": "Cinnamon" },
+            { "category_name": "Cumin" },
+            { "category_name": "Turmeric" }
+          ]
+        },
+        {
+          "category_name": "Herbs",
+          "categories": [
+            { "category_name": "Chives" },
+            { "category_name": "Oregano" },
+            { "category_name": "Parsley" },
+            { "category_name": "Rosemary" },
+            { "category_name": "Sage" },
+            { "category_name": "Spearmint" },
+            { "category_name": "Tarragon" },
+            { "category_name": "Thyme" }
+          ]
+        },
+        {
+          "category_name": "Powders",
+          "categories": [
+            { "category_name": "Garlic Powder" },
+            { "category_name": "Ginger Powder" }
+          ]
+        },
+        {
+          "category_name": "Tea",
+          "categories": [{ "category_name": "Tea" }]
+        },
+        {
+          "category_name": "Flowers",
+          "categories": [
+            { "category_name": "Carnation" },
+            { "category_name": "Chamomile" },
+            { "category_name": "Daisy" },
+            { "category_name": "Dandelion" },
+            { "category_name": "Honeysuckle" },
+            { "category_name": "Lavender" },
+            { "category_name": "Marigold" },
+            { "category_name": "Rose" }
+          ]
+        },
+        {
+          "category_name": "Miscellaneous",
+          "categories": [
+            { "category_name": "Bluegrass" },
+            { "category_name": "Herbs / Spices Other" },
+            { "category_name": "Stevia" }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Meals",
+      "categories": [
+        {
+          "category_name": "Breakfast",
+          "categories": [
+            {
+              "category_name": "Breakfast"
+            }
+          ]
+        },
+        {
+          "category_name": "Lunch",
+          "categories": [
+            {
+              "category_name": "Lunch"
+            }
+          ]
+        },
+        {
+          "category_name": "Soup",
+          "categories": [
+            {
+              "category_name": "Soup"
+            }
+          ]
+        },
+        {
+          "category_name": "Dinner",
+          "categories": [
+            {
+              "category_name": "Dinner"
+            }
+          ]
+        },
+        {
+          "category_name": "Dessert / Candy",
+          "categories": [
+            {
+              "category_name": "Dessert / Candy"
+            }
+          ]
+        },
+        {
+          "category_name": "Snacks",
+          "categories": [
+            {
+              "category_name": "Snacks"
+            }
+          ]
+        },
+        {
+          "category_name": "Baby Food",
+          "categories": [
+            {
+              "category_name": "Baby Food"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Dairy",
+      "categories": [
+        {
+          "category_name": "Dairy",
+          "categories": [
+            { "category_name": "Cheese" },
+            { "category_name": "Cream" },
+            { "category_name": "Milk" },
+            { "category_name": "Sour Cream" },
+            { "category_name": "Yogurt" }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Miscellaneous",
+      "categories": [
+        {
+          "category_name": "Miscellaneous",
+          "categories": [
+            { "category_name": "Baking" },
+            { "category_name": "Bread" },
+            { "category_name": "Breadcrumbs" },
+            { "category_name": "Cocktails" },
+            { "category_name": "Condiments" },
+            { "category_name": "Eggs" },
+            { "category_name": "Health Products" },
+            { "category_name": "Herbal Lozenges" },
+            { "category_name": "Honey" },
+            { "category_name": "Hummus" },
+            { "category_name": "Misc. Powders / Salt" },
+            { "category_name": "Pasta / Noodles" },
+            { "category_name": "Pasta Sauce" },
+            { "category_name": "Peanut Butter" },
+            { "category_name": "Sauce" },
+            { "category_name": "Smoothies" },
+            { "category_name": "Soy Sauce" },
+            { "category_name": "Sugar" },
+            { "category_name": "Tofu Jerky" },
+            { "category_name": "Wasabi" }
+          ]
+        }
+      ]
+    }
+  ]
+}

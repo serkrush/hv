@@ -1,0 +1,74 @@
+if (typeof document !== 'undefined') {
+    throw new Error('Do not import `config.js` from inside the client-side code.');
+}
+
+import { ROLE, GRANT, IRoles, IRules } from './types';
+
+export const SUPER = [ROLE.ROOT];
+
+export const roles: IRoles = {
+    [ROLE.GUEST]: {
+        display: 'guest',
+        url: '',
+        private: true,
+    },
+
+    [ROLE.MACHINE]: {
+        display: 'machine',
+        parent: [ROLE.GUEST],
+        url: '/',
+        private: true,
+    },
+
+    [ROLE.USER]: {
+        display: 'user',
+        parent: [ROLE.MACHINE],
+        url: '/',
+        private: true,
+    },
+
+    [ROLE.OWNER]: {
+        display: 'owner',
+        parent: [ROLE.USER],
+        url: '/',
+        private: true,
+    },
+
+    [ROLE.ROOT]: {
+        display: 'Admin',
+        parent: [ROLE.OWNER],
+        url: '/',
+    },
+};
+
+export const rules: IRules = {
+    /*****************************************************************************************
+    ************************************* Other Resources ********************************
+    ******************************************************************************************/
+
+    /*****************************************************************************************
+    ************************************* MENU and navigation ********************************
+    ******************************************************************************************/
+
+    'MainMenu/*/*': {
+        allow: {
+            [ROLE.GUEST]: [GRANT.READ],
+        }
+    },
+
+    /*****************************************************************************************
+    ************************************* ROUTES / URLs resources ****************************
+    ******************************************************************************************/
+
+    '/': {
+        allow: {
+            [ROLE.GUEST]: [GRANT.READ, GRANT.GET],
+        },
+    },
+
+    '/login': {
+        allow: {
+            [ROLE.GUEST]: [GRANT.READ, GRANT.GET],
+        },
+    },
+};
